@@ -1,0 +1,10 @@
+{
+  "sandbox_repo": "gabrielmateitoma/sss",
+  "canonical_owner_issue": "gabrielmateitoma/system0-orchestration#196",
+  "authorized_item_a": "gabrielmateitoma/sss#1",
+  "queued_item_b": "gabrielmateitoma/sss#2",
+  "role": "disposable_aut05_poc",
+  "autonomous_merge": false,
+  "workflow_mutation": false,
+  "canonical_repo_mutation": false
+}
