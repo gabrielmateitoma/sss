@@ -1,2 +1,2 @@
 def race_value():
-    return "H1"
+    return "H2"
